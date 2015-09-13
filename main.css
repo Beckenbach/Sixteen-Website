@@ -1,0 +1,26 @@
+body{
+    width: 360px;
+}
+    header {
+        background-color: #acd373;
+    height: 40px; width: 360px;
+    }
+
+    h1 {
+        text-align: center;
+    }
+
+.greeting {
+    background: #9abd67;
+    background-image: url(images/icon-london.png) no-repeat bottom;
+color: white;
+    height: 360px;        
+    text-align: center;
+}
+.greeting:hover{
+    background-color: #acd373;
+}
+        
+.skyline {
+     background: #9abd67;
+background-image: url(images/icon-london.png) no-repeat bottom;
